@@ -91,7 +91,7 @@
     border-top-left-radius:50px;
     border-top-right-radius: 50px;
     background-color:rgb(253, 148, 153);
-    margin-left:550px;
+    margin-left:530px;
     margin-top:-20px;
     border:1px solid black;
     position:absolute;
@@ -103,7 +103,7 @@
     border-top-right-radius: 50px;
     background-color:rgb(253, 148, 153);
     margin-top:-20px;
-    margin-left:630px;
+    margin-left:640px;
     border:1px solid black;
     position: absolute;
 }
