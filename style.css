@@ -1,0 +1,109 @@
+.face{
+    height: 250px;
+    width:250px;
+    margin:auto;
+    margin-top:15% ;
+    background-color: rgb(253, 148, 153);
+    border-radius: 50%;
+    border:1px solid black;
+    position: relative;
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    width: 250px;
+    position: absolute;
+}
+.leye{
+    height:60px;
+    width:60px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-right:0px;
+}
+.reye{
+    height:60px;
+    width:60px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 50px;
+   margin-left:30px;
+}
+.eball{
+    display: flex;
+    justify-content: space-evenly;
+    width: 250px;
+    position: absolute;
+}
+.leball{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 65px;
+    margin-right:50px;
+}
+.reball{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 65px;
+}
+.mouth{
+    height: 60px;
+    width:100px;
+    background-color:rgb(227, 8, 8);
+    border: 1px solid black;
+    border-top-left-radius:30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px ;
+    margin: auto;
+    margin-top: 140px;
+}
+.round{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100px;
+    position: absolute;
+}
+.round1{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 13px;
+    margin-left: -2px;
+}
+.round2{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top:13px;
+    
+}
+.head1{
+    height:100px;
+    width:90px;
+    border-top-left-radius:50px;
+    border-top-right-radius: 50px;
+    background-color:rgb(253, 148, 153);
+    margin-left:550px;
+    margin-top:-20px;
+    border:1px solid black;
+    position:absolute;
+}
+.head2{
+    height:100px;
+    width:90px;
+    border-top-left-radius:50px;
+    border-top-right-radius: 50px;
+    background-color:rgb(253, 148, 153);
+    margin-top:-20px;
+    margin-left:630px;
+    border:1px solid black;
+    position: absolute;
+}
